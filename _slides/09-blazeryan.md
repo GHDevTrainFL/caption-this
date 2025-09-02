@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+My test caption
 
 ![steroidtocat](https://octodex.github.com/images/steroidtocat.png)
 {: .center}
